@@ -1,0 +1,4 @@
+Jsp2X is a command line utility for batch conversion of JSP _pages_ to JSP
+_documents_, i.e. JSPs in well-formed XML syntax (aka JSPX, see chapter 5 of the [JavaServer Pages 1.2 Specification](http://jcp.org/aboutJava/communityprocess/final/jsr053/) and chapter 6 of the [JavaServer Pages 2.0 Specification](http://jcp.org/aboutJava/communityprocess/final/jsr152)). It is written in Java and incorporates a parser derived from a combined JSP+XHTML grammar using the ANTLR parser generator. It tries very hard to create JSPX output that is portable across engines. Jsp2X was designed to be reentrant and can be used incrementally.
+
+More information can be found [here](http://diaryproducts.net/about/programming_languages/java/convert_jsp_pages_to_jsp_documents_jspx_with_jsp2x).
